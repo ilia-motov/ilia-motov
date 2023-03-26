@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have been developing web applications on the .NET platform since 2021. Basically it is the backend of ASP.NET Core applications. I write in the C# programming language. Learning JavaScript and TypeScript. I'm interested in the Blazor framework and its development.
 
-* 🌍  I'm based in Aktobe, Kazakhstan
-* ✉️  You can contact me at [motov.19911@gmail.com](mailto:motov.19911@gmail.com)
+* 🌍  Aktobe, Kazakhstan
+* ✉️  [motov.19911@gmail.com](mailto:motov.19911@gmail.com)
 * 🚀  I'm currently working on [CIMETRICS INC.](http://www.cimetrics.com)
 * 🧠  I'm learning JavaScript and JQuery
 
