@@ -28,7 +28,7 @@ I have been developing web applications on the .NET platform since 2021. Basical
 #### Frontend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img style="margin: 10px" src="https://camo.githubusercontent.com/bfc4d7998ef0a1ee4800f416641ea5767049d10011def38e8944a7fe8d468904/68747470733a2f2f61647269656e746f727269732e6769746875622e696f2f777777726f6f742f696d616765732f626c617a6f722f6c6f676f2d626c617a6f722e706e67" alt="jQuery" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
