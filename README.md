@@ -27,7 +27,7 @@ I have been developing web applications on the .NET platform since 2021. Basical
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.blackmagicdesign.com/" target="_blank" rel="noreferrer"><img src="[https://w7.pngwing.com/pngs/835/235/png-transparent-davinci-resolve-macos-bigsur-icon-thumbnail.png](https://www.kindpng.com/picc/m/13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png)" width="36" height="36" alt="DavinciResolve" /></a>
+<a href="https://www.blackmagicdesign.com/" target="_blank" rel="noreferrer"><img src="https://2.downloader.disk.yandex.ru/preview/123ae02bf9ba7d1fd2959d4f60eecfc9318bf38670b21181c01163d4c03c733f/inf/gnGxzxtsEXWx61zFx0zM_XsKA779O0UHvS-_6bXCrk5yIGT0RNlF-TIHDEfoa5NcjjR8OtNzt99SJXT6UEeorA%3D%3D?uid=258648919&filename=13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=258648919&tknv=v2&size=1898x860" width="36" height="36" alt="DavinciResolve" /></a>
 </p>
 
 
