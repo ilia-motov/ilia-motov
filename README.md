@@ -8,7 +8,7 @@ I have been developing web applications on the .NET platform since 2021. Basical
 
 * 🌍  Aktobe, Kazakhstan
 * ✉️  [motov.19911@gmail.com](mailto:motov.19911@gmail.com)
-* 🚀  I'm currently working on [CIMETRICS INC.](http://www.cimetrics.com)
+* 🚀  I work in [CIMETRICS INC.](http://www.cimetrics.com)
 * 🧠  I'm learning JavaScript and JQuery
 
 ### My Skill Set  
