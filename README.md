@@ -48,6 +48,7 @@ I have been developing web applications on the .NET platform since 2021. Basical
 
 <br/>  
 
+![Codewars](https://www.codewars.com/users/ilia-motov/badges/large)
 
 ### Socials
 
